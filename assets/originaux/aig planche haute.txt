@@ -1,0 +1,42 @@
+
+nom ; position x ; position y ; taille cellule x ; taille cellule y ; image 1 ; image 2;
+
+aig101;305;408;41;41;a5;a2;
+la commande du 101 fait basculer 2 aiguillages
+aig102;346;436;41;41;a5;a2;
+la commande du 102 fait basculer 2 aiguillages
+aig103;178;408;41;41;a4;a2;
+
+aig201;554;464;41;41;a1;a2;
+aig202;595;492;41;41;a4;a2;
+aig203;636;520;41;41;a1;a2;
+aig204;677;548;41;41;a1;a2;
+aig205;718;576;41;41;a4;a2;
+aig206;514;520;41;41;a1;a3;
+
+aig301;823;380;41;41;a4;a2;
+aig302;864;408;41;41;a5;a2;
+la commande du 302 fait basculer 2 aiguillages
+aig303;783;436;41;41;a5;a2;
+la commande du 303 fait basculer 2 aiguillages
+
+aig401;293;185;41;41;a1;a2;
+aig402;849;185;41;41;a5;a3;
+la commande du 402 fait basculer 2 aiguillages
+aig403;464;213;41;41;a5:a3;
+la commande du 403 fait basculer 2 aiguillages
+aig411;529;241;41;41;a1;a2;
+aig412;586;241;41;41;a1;a2;
+aig440;174;157;41;41;a1;a3;
+aig450;715;157;41;41;a5;a2;
+la commande du 450 fait basculer 2 aiguillages
+
+aig501;374;46;41;41;a1;a2;
+aig502;858;45;41;41;a1;a3;
+aig503;449;103;41;41;a1;a2;
+aig504;817;74;41;41;a4;a3;
+
+aig551;298;17;41;41;a4;a2;
+aig552;86;17;;41;41;a1;a3;
+aig553;7;120;;41;41;b4;b3;
+aig554;63;206;;41;41;b1;b2;

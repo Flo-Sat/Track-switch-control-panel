@@ -1,0 +1,13 @@
+# Routes vers les voies de triage T71 à T75
+# Format : Tx;aig_id:etat,...  (d=droit, v=dévié)
+# Les aiguillages sont exécutés dans l'ordre avec un délai entre chaque
+#
+T75;aig704:v,aig703:v,aig701:v,aig607:v,aig606:v
+T74;aig704:d,aig703:v,aig701:v,aig607:v,aig606:v
+T73;aig703:d,aig701:v,aig607:v,aig606:v
+T72;aig702:v,aig701:d,aig607:v,aig606:v
+T71;aig702:d,aig701:d,aig607:v,aig606:v
+T8X;aig823:v,aig822:v,aig821:v
+T83;aig823:d,aig822:v,aig821:v
+T82;aig822:v,aig821:v
+T81;aig821:v

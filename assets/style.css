@@ -1,0 +1,23 @@
+/* Animation d'enfoncement au clic */
+.button-aiguillage {
+    transition: all 0.1s ease;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+}
+
+/* Effet hover */
+.button-aiguillage:hover {
+    transform: scale(1.05) !important;
+    filter: brightness(1.15);
+}
+
+/* Effet de clic (enfoncement) */
+.button-aiguillage:active {
+    transform: scale(0.85) translateY(2px) !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+    filter: brightness(0.85);
+}
+
+/* Animation plus douce */
+.button-aiguillage img {
+    transition: transform 0.1s ease;
+}

@@ -1,0 +1,26 @@
+nom ; position x ; position y ; taille cellule x ; taille cellule y ; image 1 ; image 2;
+
+aig601;169;31;55;97;c1;c2;
+la commande du 601 fait basculer 2 aiguillages
+aig602;225;59;41;41;a4;a2;
+aig603;778;59;41;41;a4;a3;
+aig604;820;31;55;97;d1;d2;
+la commande du 604 fait basculer 2 aiguillages
+aig605;826;570;41;41;a4;a2;
+aig606;784;542;41;41;a4;a2;
+aig607;742;514;41;41;a4;a2;
+aig608;240;542;41;41;a4;a3;
+aig609;199;570;41;41;a5;a3;
+la commande du 609 fait basculer 2 aiguillages
+
+aig701;700;486;41;41;a4;a2;
+aig702;586;486;41;41;a4;a2;
+aig703;627;430;41;41;a4;a2;
+aig704;585;402;41;41;a4;a2;
+aig821;675;346;41;41;a4;a2;
+aig822;633;318;41;41;a4;a2;
+aig823;591;290;41;41;a4;a2;
+
+aig901;343;234;41;41;a1;a2;
+aig902;680;262;41;41;a1;a2;
+aig903;745;310;41;41;a1;a2;
